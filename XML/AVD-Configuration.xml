@@ -1,10 +1,9 @@
 <Configuration ID="fbad363f-2b95-4ddb-8b98-799e6054bc12">
-  <Add OfficeClientEdition="64" Channel="SemiAnnual">
+  <Add OfficeClientEdition="64" Channel="Current">
     <Product ID="O365ProPlusRetail">
       <Language ID="nl-nl" />
     </Product>
   </Add>
-  <Updates Enabled="FALSE"/>
   <Property Name="SharedComputerLicensing" Value="1" />
   <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
   <Property Name="DeviceBasedLicensing" Value="0" />
